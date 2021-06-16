@@ -9,7 +9,7 @@ I am eager to learn and want to progress as much as possible!
 ## My Actual Projects 💾
 
 I don't have much time to devote to my personal projects because of the work I have to do for my studies, but here is a list of the projects I am doing on a personal basis:
-- A personnal lib and core for programmaing with discord.py. I don't know if I'll make it public yet, but it's not deep enough for that yet.
+- A personnal lib and core for programmaing with discord.py, named [discore](https://github.com/Kyrela/discore)
 - 2-3 Discord Bots, one for personal use, a second for fun on a friend's server, and a third for wishing birthdays to server members
 - A site with github-pages that would serve as a portfolio for all my projects (not started yet)
 - I also give a hand to other people on the projects
@@ -20,7 +20,7 @@ My most interesting past projects are the ones I post here in open-source: check
 
 ## My projects realized during my studies 🎓
 
-I also plan to make them open-source. In the meantime, you can watch some of the most important videos on my [Youtube](https://www.youtube.com/channel/UCh_LBIzGKG91pmLLh9bnXrA) page.
+I also plan to make them open-source. In the meantime, you can watch some of the most important videos on my [Youtube](https://www.youtube.com/channel/UCh_LBIzGKG91pmLLh9bnXrA) channel.
 
 ## Contact me 📨
 
