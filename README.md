@@ -20,7 +20,7 @@ My most interesting past projects are the ones I post here in open-source: check
 
 ## My projects realized during my studies 🎓
 
-I also plan to make them open-source. In the meantime, you can watch some of the most important videos on my [Youtube](https://www.youtube.com/channel/UCh_LBIzGKG91pmLLh9bnXrA) channel.
+I also plan to make them open-source, but it's impossible for me as long as I'm a student at Epitech. In the meantime, you can watch some of the most important videos on my [Youtube](https://www.youtube.com/channel/UCh_LBIzGKG91pmLLh9bnXrA) channel.
 
 ## Contact me 📨
 
