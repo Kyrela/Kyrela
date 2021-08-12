@@ -6,6 +6,13 @@ I am interested in software programming, as well as chatbots (Discord bots, for 
 I spend my free time programming, playing video games, listening to music or reading.
 I am eager to learn and want to progress as much as possible!
 
+## Stats
+
+*Please note that my school projets aren't showed in these stats*
+
+[![Kyrela's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyrela&count_private=true&show_icons=true&theme=dark)](https://github.com/Kyrela?tab=repositories)
+
+
 ## My Actual Projects 💾
 
 I don't have much time to devote to my personal projects because of the work I have to do for my studies, but here is a list of the projects I am doing on a personal basis:
@@ -17,6 +24,7 @@ I don't have much time to devote to my personal projects because of the work I h
 ## My Pasts Projects
 
 My most interesting past projects are the ones I post here in open-source: check them out!
+
 
 ## My projects realized during my studies 🎓
 
