@@ -14,9 +14,7 @@ I don't have much time to devote to my personal projects because of the work I h
 - A personnal lib and core for programmaing with discord.py, named [discore](https://github.com/Kyrela/discore)
 - I also give a hand to other people on the projects
 
-## My Pasts Projects
-
-My most interesting past projects are the ones I post here in open-source: check them out!
+For my school projects, I actually work on video games build with Unreal Engine 5. You can have a look at some of them at [Itch.io](https://kyrela.itch.io/)!
 
 
 ## My projects realized during my studies 🎓
