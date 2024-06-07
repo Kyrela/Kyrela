@@ -32,4 +32,4 @@ You can contact me via [LinkedIn](https://www.linkedin.com/in/mathis-vinay/), [T
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 1; background: url('https://raw.githubusercontent.com/Kyrela/Kyrela/main/modern2%20(Grande).png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 1; background: url('https://raw.githubusercontent.com/Kyrela/Kyrela/main/modern2%20(Grande).png'); background-size: auto 100%;]{x0000}$}
