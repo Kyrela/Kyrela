@@ -29,7 +29,3 @@ You can contact me via [LinkedIn](https://www.linkedin.com/in/mathis-vinay/), [T
 
 [![GitHub followers](https://img.shields.io/github/followers/Kyrela?label=Followers&style=social)](https://github.com/Kyrela?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kyre1a?style=social)](https://twitter.com/Kyre1a)
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 1; background: url('https://raw.githubusercontent.com/Kyrela/Kyrela/main/modern2%20(Grande).png'); background-size: auto 100%;]{x0000}$}
