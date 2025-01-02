@@ -11,7 +11,7 @@ I am eager to learn and want to progress as much as possible!
 
 I don't have much time to devote to my personal projects because of the work I have to do for my studies, but here is a list of the projects I am currently doing on a personal basis:
 - A Discord bot aiming to improve social medias embeds, named [FixTweetBot](https://github.com/Kyrela/FixTweetBot)
-- A personnal lib and core for programmaing with discord.py, named [discore](https://github.com/Kyrela/discore)
+- A personnal lib and core for programming with discord.py, named [discore](https://github.com/Kyrela/discore)
 - I also give a hand to other people on source-available projects
 
 
