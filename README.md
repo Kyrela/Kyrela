@@ -6,6 +6,7 @@ I am interested in video game programming, software programming, as well as chat
 I spend my free time programming, playing video games, listening to music or reading.
 I am eager to learn and want to progress as much as possible!
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kyrela&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Kyrela?tab=repositories&type=source)
 
 ## My Actual Projects 💾
 
