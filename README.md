@@ -1,7 +1,7 @@
 ### **Hello ! 👋**
 
-I'm Kyrela, a french IT student at @Epitech !
-I code mainly in Python/C/C++/C#/Ruby.
+I'm Kyrela, a french dev!
+I code mainly in C++/C#/Python/C/Ruby.
 I am interested in video game programming, software programming, as well as chatbots (Discord bots, for exemple)
 I spend my free time programming, playing video games, listening to music or reading.
 I am eager to learn and want to progress as much as possible!
@@ -10,7 +10,7 @@ I am eager to learn and want to progress as much as possible!
 
 ## My Actual Projects 💾
 
-I don't have much time to devote to my personal projects because of the work I have to do for my studies, but here is a list of the projects I am currently doing on a personal basis:
+I don't have much time to devote to my personal projects, but here is a list of the projects I am currently doing on a personal basis:
 - A Discord bot aiming to improve social medias embeds, named [FixTweetBot](https://github.com/Kyrela/FixTweetBot)
 - A personnal lib and core for programming with discord.py, named [discore](https://github.com/Kyrela/discore)
 - I also give a hand to other people on source-available projects (like on [MS-Rewards-Farmer](https://github.com/klept0/MS-Rewards-Farmer))
